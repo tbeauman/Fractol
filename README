@@ -1,2 +1,2 @@
-Just run ./fractol
-Only works on MACOS because of key hooks
+make & ./fractol
+Only works on MACOS
